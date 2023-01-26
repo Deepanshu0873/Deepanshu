@@ -7,6 +7,11 @@ public void m2{
 //code
 
 }
+public void m2{
+//code
+
+}
+
 
 
 
